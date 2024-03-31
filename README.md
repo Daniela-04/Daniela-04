@@ -1,4 +1,4 @@
-![Hello](assets/giphy.gif)
+<img src="./assets/hello.gif" style="display:block;float:none;margin-left:auto;margin-right:auto" />
 
 # I'm Daniela, 
 
